@@ -8,7 +8,7 @@ Mascara de produção rapida
 - Pouco material (10g de filamento)
 
 ## Desvantagens
--
+- Pressão na testa mal distribuída
 
 ## BOM
 - Suporte superior (impresso)
