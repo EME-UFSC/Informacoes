@@ -13,5 +13,9 @@ Links uteis para tempos de crise do grupo TreshDe-UFSC, centralizando informaç�
   - [Mascara simples com clip de papel](https://www.prusaprinters.org/prints/26318-simple-clip-for-face-mask-corona-virus-covid-19-pr)
   - [Escudo facil da prusa (face shield)](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files)
 
+### Arquivos locais
+  - [Mascara facil Jailton](https://github.com/TreshDe-UFSC/informacoes/tree/master/arquivos/mascara_facil_jailton)
+  - [Mascara facil prusa com reforço](https://github.com/TreshDe-UFSC/informacoes/tree/master/arquivos/mascara_facil_prusa)
+
 ## Noticias
   - ['A worldwide hackathon': Hospitals turn to crowdsourcing and 3D printing amid equipment shortages](https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026)
