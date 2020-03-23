@@ -15,6 +15,7 @@ Links uteis para tempos de crise do grupo TreshDe-UFSC, centralizando informa√ß√
   - [Escudo facil da prusa (face shield)](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files)
   - [Escudo facil com corte a laser](https://hackaday.io/project/170481-laser-cut-medical-shield)
   - [Projeto respirador EME-UFSC](https://github.com/joaoantoniocardoso/colab_respirador)
+  - [Projeto respirador LHC campinas](https://respiradorhacker.github.io/)
 
 ### Arquivos locais
   - [Mascara facil Jailton](https://github.com/TreshDe-UFSC/informacoes/tree/master/arquivos/manufatura/mascara_facil_jailton)
