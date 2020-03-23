@@ -1,5 +1,7 @@
 # Mascara modelo "Jailton"
-Descriçao
+Mascara de produção rapida 
+
+<img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_jailton/jailton_lado.jpg" width="300"/> <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_jailton/jailton_frente.jpg" width="300"/>
 
 ## Vantagens
 - Impressao rapida (2h)
