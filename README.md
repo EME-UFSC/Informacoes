@@ -1,5 +1,6 @@
-Informações
-Links uteis para tempos de crise 
+# Informações
+
+Links uteis para tempos de crise do grupo TreshDe-UFSC, centralizando informações. 
 
 ## Grupos
   - [Trello do fab lab de joinville](https://trello.com/b/d1OyUROT/fab-lab-jlle-covid19)
