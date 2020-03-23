@@ -1,5 +1,9 @@
 # Mascara modelo "Prusa"
-Descriçao
+Modelo original prusa
+
+
+<img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_prusa/prusa_lado.jpeg" width="300"/> <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_prusa/prusa_frente.jpeg" width="300"/>
+
 
 ## Vantagens
 - Ja validada por instituiçoes de saude
