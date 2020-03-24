@@ -8,6 +8,7 @@ Mascara de produção rapida
 - [Gabarito para furaçao manual (.stl)](Gabarito_somente_Furos.stl)
 - [Gabarito para corte e furaçao completo (.stl)](gabarito_completo.stl)
 - [Desenho de corte (.dxf)](CORTE_ACETATO_MASCARA_JAILTON.DXF)
+- [Desenho de corte (.pdf)](CORTE_ACETATO_MASCARA_JAILTON.PDF)
 
 ## Vantagens
 - Impressao rapida (2h)
