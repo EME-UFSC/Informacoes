@@ -1,30 +1,33 @@
-# Informações
+# EME-UFSC
+Grupo multidisciplinar da UFSC para desenvolvimento de Equipamentos Médicos de Emergência para atender as demandas da pandemia de COVID-19.
 
-Links uteis para tempos de crise do grupo TreshDe-UFSC, centralizando informações.
+## Equipamentos Médicos de Emergencia
+Sao equipamentos produzidos com o intuito de auxiliar no atendimento a emergencias médicas. Estes equipamentos nao sao certificados, porém passam por um controle no seu projeto e produçao para garantir que preencham requisitos minimos de ergonomia e higiene.
 
-## Grupos
-  - [Trello do fab lab de joinville](https://trello.com/b/d1OyUROT/fab-lab-jlle-covid19)
-  - [Grupo de consultoria OSS internacional (covid oss help)](https://covid-oss-help.org/)
-  - [EME UFSC - grupo multidisciplinar da UFSC](https://eme.ufsc.br/)
-      - [Equipamentos Médicos de Emergência UFSC - EME-UFSC](https://docs.google.com/forms/d/e/1FAIpQLSeCZE8CdgZPJN08dR_9Emt4Lmj818ivS3bxzDP5n7IXFxugCQ/viewform)
-  - [Fórum para discussão sobre a criação de respiradores / ventiladores abertos (em espanhol)](https://foro.coronavirusmakers.org/)
+Atualmente o grupo EME-UFSC produz os seguintes equipamentos:
+- Escudo facial
+- Mascara de boca/nariz
+- Avental
+- Ventilador mecanico
 
-## Projetos
-  - [Ventilador open hardware (oxygen.protofy)](https://www.oxygen.protofy.xyz/)
-  - [Mascara de mergulho como respirador (easy covid19)](https://www.isinnova.it/easy-covid19)
-  - [Mascara simples com clip de papel](https://www.prusaprinters.org/prints/26318-simple-clip-for-face-mask-corona-virus-covid-19-pr)
-  - [Mascara permanente impressa](https://www.cnn.com/2020/03/23/us/coronavirus-3d-printed-medical-supplies-trnd/index.html)
-  - [Escudo facil da prusa (face shield)](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files)
-  - [Escudo facil com corte a laser](https://hackaday.io/project/170481-laser-cut-medical-shield)
-  - [Projeto respirador EME-UFSC](https://github.com/joaoantoniocardoso/colab_respirador)
-  - [Projeto respirador LHC campinas](https://respiradorhacker.github.io/)
+### Precisa de equipamento para sua Unidade de Saude?
+Preencha [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfDX15ljiZy6SYf0Oby2XscRVzy2pqgRojPx5fv6pEW_O75Uw/viewform) com a sua necessidade que nosso responsavel entrara em contato.
 
-### Arquivos locais
-  - [Mascara facil Jailton](https://github.com/TreshDe-UFSC/informacoes/tree/master/arquivos/manufatura/mascara_facil_jailton)
-  - [Mascara facil prusa com reforço](https://github.com/TreshDe-UFSC/informacoes/tree/master/arquivos/manufatura/mascara_facil_prusa)
+### Possui maquinario para ajudar na produçao de equipamentos (EME)?
+Preencha [este formulario](https://forms.gle/Hm4whJZQ5EAF3oUG9) com a sua capacidade produtiva que nosso responsavel entrara em contato.
 
-## Ferramentas online
-  - [Modelo preditivo SEIR-Bayes do corona pelo brasil, estados e municipios](https://covid-simulator.3778.care/)
+### Possui insumos para doar ou vender?
+Para a produçao dos EMEs nossa equipe precisa de alguns insumos, entre eles:
+- Folha de acetato (0.3mm)
+- Filamento polimerico (PLA, ABS, PETG)
+- Elastico
+- Tecidos (SMS, TNT)
 
-## Noticias
-  - ['A worldwide hackathon': Hospitals turn to crowdsourcing and 3D printing amid equipment shortages](https://www.nbcnews.com/tech/innovation/worldwide-hackathon-hospitals-turn-crowdsourcing-3d-printing-amid-equipment-shortages-n1165026)
+Caso possua algum desses para doar ou vender, preencha [este formulario](https://www.google.com) que nosso responsavel entrara em contato.
+
+## Outros links
+
+- ### [Grupos de trabalho](docs/grupos_de_trabalho.md)
+- ### [Projetos externos de EME](docs/projetos_externos_de_eme.md)
+- ### [Arquivos para manufatura](docs/arquivos_de_manufatura.md)
+- ### [Noticias](docs/noticias.md)
