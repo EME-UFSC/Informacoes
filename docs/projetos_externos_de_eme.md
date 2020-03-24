@@ -7,4 +7,5 @@
   - [Escudo facil com corte a laser](https://hackaday.io/project/170481-laser-cut-medical-shield)
   - [Projeto respirador EME-UFSC](https://github.com/joaoantoniocardoso/colab_respirador)
   - [Projeto respirador LHC campinas](https://respiradorhacker.github.io/)
+  - [Projeto respirador MIT](https://e-vent.mit.edu/)
   - [Modelo preditivo SEIR-Bayes do corona pelo brasil, estados e municipios](https://covid-simulator.3778.care/)
