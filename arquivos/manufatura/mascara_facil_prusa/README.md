@@ -4,6 +4,10 @@ Modelo original prusa
 
 <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_prusa/prusa_lado.jpeg" width="300"/> <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_prusa/prusa_frente.jpeg" width="300"/>
 
+## Arquivos
+- [Suporte superior (.stl)](covid19_headband_rc2.stl)
+- [Suporte inferior (.stl)](bottom_reinforcement.stl)
+- [Desenho de corte (.dxf)](shield_final.dxf)
 
 ## Vantagens
 - Ja validada por instituiçoes de saude
@@ -34,3 +38,6 @@ Modelo original prusa
 
 ## Limpeza
 (?)
+
+## Referencia
+https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/

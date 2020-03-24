@@ -1,7 +1,13 @@
 # Mascara modelo "Jailton"
-Mascara de produção rapida 
+Mascara de produção rapida
 
 <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_jailton/jailton_lado.jpg" width="300"/> <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_jailton/jailton_frente.jpg" width="300"/>
+
+## Arquivos
+- [Suporte superior (.stl)](MASCARA_JAILTON.STL)
+- [Gabarito para furaçao manual (.stl)](Gabarito_somente_Furos.stl)
+- [Gabarito para corte e furaçao completo (.stl)](gabarito_completo.stl)
+- [Desenho de corte (.dxf)](CORTE_ACETATO_MASCARA_JAILTON.DXF)
 
 ## Vantagens
 - Impressao rapida (2h)

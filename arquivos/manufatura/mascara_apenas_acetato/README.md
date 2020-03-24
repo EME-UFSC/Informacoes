@@ -1,6 +1,10 @@
 # Mascara modelo "Apenas Acetato"
 Mascara de produção super rapida
 
+## Arquivos
+- [Desenho de corte (.dxf)](medical_shield_0_5mm.dxf)
+- [Instruçoes de montagem (.pdf)](Assembly_instruction.pdf)
+
 ## Vantagens
 - Utiliza apenas acetato na estrutura, sem peças impressas
 - Barata
@@ -20,3 +24,6 @@ Mascara de produção super rapida
 
 ## Limpeza
 (?)
+
+## Referencia
+https://hackaday.io/project/170481-laser-cut-medical-shield
