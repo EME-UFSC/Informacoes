@@ -1,6 +1,3 @@
-# EME-UFSC
-Grupo multidisciplinar da UFSC para desenvolvimento de Equipamentos Médicos de Emergência para atender as demandas da pandemia de COVID-19.
-
 ## Equipamentos Médicos de Emergencia
 Sao equipamentos produzidos com o intuito de auxiliar no atendimento a emergencias médicas. Estes equipamentos nao sao certificados, porém passam por um controle no seu projeto e produçao para garantir que preencham requisitos minimos de ergonomia e higiene.
 
