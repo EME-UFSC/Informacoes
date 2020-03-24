@@ -14,7 +14,7 @@ Mascara de produção super rapida
 - Ainda nao se conhece
 
 ## BOM
-- Folha de acetato 22x30cm (0.3mm ou 0.5mm de espessura)
+- Folha de acetato 22x30cm (0.5mm de espessura)
 - Elastico
 
 ## Instruçoes para confecçao
