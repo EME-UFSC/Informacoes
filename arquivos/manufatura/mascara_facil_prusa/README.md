@@ -21,7 +21,7 @@ Modelo original prusa
 ## BOM
 - Suporte superior (impresso)
 - Suporte inferior (impresso)
-- Folha de acetato 24x24cm (0.3mm de espessura)
+- Folha de acetato 24x24cm (0.5mm de espessura)
 - Elastico
 
 ## Instruçoes para confecçao
