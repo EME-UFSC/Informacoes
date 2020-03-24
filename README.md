@@ -7,20 +7,18 @@ Atualmente o grupo EME-UFSC produz os seguintes equipamentos:
 - Avental
 - Ventilador mecanico
 
-## Precisa de equipamento para sua Unidade de Saude?
-Preencha [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfDX15ljiZy6SYf0Oby2XscRVzy2pqgRojPx5fv6pEW_O75Uw/viewform) com a sua necessidade que nosso responsavel entrara em contato.
+## Quer ajudar ou precisa de ajuda?
+Nosso controle das diferentes demandas esta sendo feito através de **formularios de preenchimento rapido**. Estes formularios sao condensados em planilhas de modo a termos um melhor controle.
 
-## Possui maquinario para ajudar na produçao de equipamentos (EME)?
-Preencha [este formulario](https://forms.gle/Hm4whJZQ5EAF3oUG9) com a sua capacidade produtiva que nosso responsavel entrara em contato.
+Se voce possui equipamentos para sua unidade de saude, possui maquinario para ajudar na produçao de equipamentos ou possui insumos usados na produçao destes equipamentos para doar ou vender, por favor, preencha o formulario adequado que **entraremos em contato o mais rapido possivel**.
 
-## Possui insumos para doar ou vender?
-Para a produçao dos EMEs nossa equipe precisa de alguns insumos, entre eles:
-- Folha de acetato (0.3mm)
-- Filamento polimerico (PLA, ABS, PETG)
-- Elastico
-- Tecidos (SMS, TNT)
+- ### Precisa de equipamento para sua Unidade de Saude? Preencha [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfDX15ljiZy6SYf0Oby2XscRVzy2pqgRojPx5fv6pEW_O75Uw/viewform).
 
-Caso possua algum desses para doar ou vender, preencha [este formulario](https://www.google.com) que nosso responsavel entrara em contato.
+- ### Possui maquinario para ajudar na produçao de equipamentos (EME)? Preencha [este formulario](https://forms.gle/Hm4whJZQ5EAF3oUG9).
+
+- ### Possui algum dos [insumos aqui listados](docs/insumos.md) para doar ou vender? Preencha [este formulario](https://forms.gle/EKddxEwn4KSwLAXHA).
+
+- ### Possui alguma duvida quanto ao projeto EME-UFSC? Preencha [este formulario](https://www.google.com).
 
 ## Outros links
 
