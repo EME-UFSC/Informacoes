@@ -4,3 +4,5 @@
 ![](25_03_2020_Hospital_Regional_de_Biguaçu_Helmuth_Nass.jpeg)
 ### 25/03/2020 - Centro Odontológico de Biguaçu
 ![](25_03_2020_Centro_Odontológico_de_Biguaçu.jpeg)
+### 25/03/2020 - Laboratório UFSC
+![](25_03_2020_Laboratorio_UFSC.jpeg)
