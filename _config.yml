@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+title: [Centro de Informaçoes EME-UFSC]
+description: [Reunem-se aqui as informaçoes pertinentes a todos aqueles que ajudam ou precisam de ajuda do projeto EME-UFSC]
+logo: docs/logo.png
+show_downloads: false
