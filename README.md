@@ -1,5 +1,9 @@
-# Equipamentos Médicos de Emergencia
-Sao equipamentos produzidos com o intuito de auxiliar no atendimento a emergencias médicas. Estes equipamentos nao sao certificados, porém passam por um controle no seu projeto e produçao para garantir que preencham requisitos minimos de ergonomia e higiene.
+<p align="center">
+  <img src="docs/logo.png" alt="Logo EME-UFSC" width="200" height="200">
+</p>
+
+## O que sao EMEs
+Equipamentos médicos de emergencia (EMEs) sao equipamentos produzidos com o intuito de auxiliar no atendimento a emergencias médicas. Estes equipamentos nao sao certificados, porém passam por um controle no seu projeto e produçao para garantir que preencham requisitos minimos de ergonomia e higiene.
 
 Atualmente o grupo EME-UFSC produz os seguintes equipamentos:
 - Escudo facial
