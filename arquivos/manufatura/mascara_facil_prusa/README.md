@@ -2,7 +2,7 @@
 Modelo original prusa
 
 
-<img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_prusa/prusa_lado.jpeg" width="300"/> <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_facil_prusa/prusa_frente.jpeg" width="300"/>
+<img src="prusa_lado.jpeg" width="300"/> <img src="prusa_frente.jpeg" width="300"/>
 
 ## Arquivos
 - [Suporte superior (.stl)](covid19_headband_rc2.stl)
