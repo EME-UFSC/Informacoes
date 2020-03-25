@@ -26,6 +26,8 @@ Primeiramente precisamos saber onde voce precisa de ajuda ou como pode ajudar. P
 
 - #### Possui alguma duvida quanto ao projeto EME-UFSC? Preencha [este formulario](https://forms.gle/3jeLeoqR6PNNrrAi8).
 
+- #### Aonde devo entregar os equipamentos? [Acesse aqui](http://e-nablebrasil.org/wp/cadaimpressaoconta/).
+
 ## Outros links
 
 - #### [Grupos de trabalho](docs/grupos_de_trabalho.md)
