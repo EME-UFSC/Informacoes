@@ -34,3 +34,7 @@ Primeiramente precisamos saber onde voce precisa de ajuda ou como pode ajudar. P
 - #### [Projetos externos de EME](docs/projetos_externos_de_eme.md)
 - #### [Arquivos para manufatura](docs/arquivos_de_manufatura.md)
 - #### [Noticias](docs/noticias.md)
+
+## Fotos da comunidade
+
+- #### [Acervo local](docs/fotos/README.md)
