@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://eme-ufsc.github.io/Informacoes/">
     <img src="docs/logo.png" alt="Logo EME-UFSC" width="200" height="200">
-  <a>
+  </a>
 </p>
 
 ## O que sao EMEs
