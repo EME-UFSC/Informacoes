@@ -8,13 +8,11 @@ Atualmente o grupo EME-UFSC produz os seguintes equipamentos:
 - Ventilador mecanico
 
 ## Quer ajudar ou precisa de ajuda?
-Nosso controle das diferentes demandas esta sendo feito através de **formularios de preenchimento rapido**. Estes formularios sao condensados em planilhas de modo a termos um melhor controle.
-
-Se voce possui equipamentos para sua unidade de saude, possui maquinario para ajudar na produçao de equipamentos ou possui insumos usados na produçao destes equipamentos para doar ou vender, por favor, preencha o formulario adequado que **entraremos em contato o mais rapido possivel**.
+Primeiramente precisamos saber onde voce precisa de ajuda ou como pode ajudar. Para isso, pedimos que preencha um dos formularios abaixo. **Demora menos de um minuto** e nos ajuda a gerenciar nossa demanda e capacidade de produçao. Em seguida [acesse nosso Slack](https://join.slack.com/t/eme-ufsc/shared_invite/zt-d20z4zog-~3Gnwx_5Q57T4ACO6nKYkg) e entre no canal mais adequado.
 
 - ### Precisa de equipamento para sua Unidade de Saude? Preencha [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfDX15ljiZy6SYf0Oby2XscRVzy2pqgRojPx5fv6pEW_O75Uw/viewform).
 
-- ### Possui maquinario para ajudar na produçao de equipamentos (EME)? Preencha [este formulario](https://forms.gle/Hm4whJZQ5EAF3oUG9).
+- ### Possui maquinario para ajudar na produçao? Preencha [este formulario](https://forms.gle/Hm4whJZQ5EAF3oUG9).
 
 - ### Possui algum dos [insumos aqui listados](docs/insumos.md) para doar ou vender? Preencha [este formulario](https://forms.gle/EKddxEwn4KSwLAXHA).
 
