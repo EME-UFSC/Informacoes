@@ -3,6 +3,7 @@ Modelo original prusa
 
 ## Arquivos
 - [Suporte superior (.stl)](prusa_remix_roberto_aurelio.STL)
+- [Suporte inferior (.stl)](bottom_reinforcement.stl)
 - [Desenho de corte (.pdf)](prusa_remix_roberto_aurelio_gabarito_furos.pdf)
 
 ## Vantagens
