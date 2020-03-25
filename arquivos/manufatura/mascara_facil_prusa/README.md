@@ -1,8 +1,7 @@
-# Mascara modelo "Prusa"
-Modelo original prusa
+# Mascara-escudo modelo "Prusa RC2"
+Modelo original desenvolvido pela empresa Prusa3D
 
-
-<img src="prusa_lado.jpeg" width="300"/> <img src="prusa_frente.jpeg" width="300"/>
+<img src="prusa_lado.jpeg" width="150"/> <img src="prusa_frente.jpeg" width="150"/>
 
 ## Arquivos
 - [Suporte superior (.stl)](covid19_headband_rc2.stl)
