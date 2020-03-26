@@ -11,5 +11,9 @@ O unico modelo validado pelos agentes de saude atualmente é o "Modelo Prusa RC2
   - [Modelo Roberto-Aurelio](../arquivos/manufatura/mascara_prusa_remix_roberto_aurelio)
   - [Modelo Apenas Acetato](../arquivos/manufatura/mascara_apenas_acetato)
   
+ ### Procedimento Operacional Padronizado (POP)
+  - [Utilização, colocação, retirada e çimpeza do protetor de face (Face Shield)](POP_face_shield.pdf)
+ 
+  
 ### Nota:
 Pela resolução da Anvisa, o recomendado é usar chapas de 0.5mm de acetato para as face shields.
