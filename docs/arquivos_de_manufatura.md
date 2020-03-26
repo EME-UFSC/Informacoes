@@ -15,7 +15,7 @@ O unico modelo validado pelos agentes de saude atualmente é o "Modelo Prusa RC2
   - [Utilização, colocação, retirada e limpeza do protetor de face (Face Shield)](POP_face_shield.pdf)
   
 ## Limpeza
-  - [Desinfecção de mascaras faciais - (Prusa em ingles) disinfection](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457#_ga=2.134450104.814720469.1585231406-35028469.1584926266)
+  - [Desinfecção de mascaras faciais - (Prusa em ingles)](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457#_ga=2.134450104.814720469.1585231406-35028469.1584926266)
  
   
 ### Nota:
