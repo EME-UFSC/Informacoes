@@ -4,11 +4,11 @@
 O unico modelo validado pelos agentes de saude atualmente é o "Modelo Prusa RC2". Caso nao tenha motivos especificos para produzir um dos outros, produza esse.
 
 ### Modelo principal
-  - [Modelo Prusa RC2](../arquivos/manufatura/mascara_facil_prusa)
+  - [Modelo Roberto-Aurelio](../arquivos/manufatura/mascara_prusa_remix_roberto_aurelio)
   
 ### Outros modelos
   - [Modelo Jailton](../arquivos/manufatura/mascara_facil_jailton)
-  - [Modelo Roberto-Aurelio](../arquivos/manufatura/mascara_prusa_remix_roberto_aurelio)
+  - [Modelo Prusa RC2](../arquivos/manufatura/mascara_facil_prusa)
   - [Modelo Apenas Acetato](../arquivos/manufatura/mascara_apenas_acetato)
   
 ### Procedimento Operacional Padronizado (POP)
