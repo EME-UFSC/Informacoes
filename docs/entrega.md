@@ -4,6 +4,6 @@ No momento estamos fazendo entregas com pedidos emergenciais diretos, iremos apo
 
 ## Outros locais
 
- - #### [Papa de locais - e-enable Brasil](http://e-nablebrasil.org/wp/cadaimpressaoconta/)
+ - #### [Mapa de locais - e-enable Brasil](http://e-nablebrasil.org/wp/cadaimpressaoconta/)
 
 
