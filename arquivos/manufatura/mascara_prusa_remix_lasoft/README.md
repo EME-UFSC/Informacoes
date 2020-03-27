@@ -1,9 +1,10 @@
 # Mascara modelo Prusa Remix Lasoft
-Mascara de produção rapida
+Mascara de produção rapida e confortavel 
 
 <img src="prusa_lasoft_frontal_b.jpg" width="270"/> <img src="prusa_lasoft_lateral.jpeg" width="270"/> <img src="prusa_lasoft_frontal.jpeg" width="270"/>
 
 ## Arquivos
+- [Suporte superior (.stl)](single-face-shield-lasoft-modified.stl)
 
 ## Vantagens
 - Impressao rapida (1:30h)
