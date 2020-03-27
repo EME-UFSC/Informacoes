@@ -1,7 +1,7 @@
 # Mascara modelo Prusa Remix Lasoft
 Mascara de produção rapida
 
-<img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_prusa_remix_lasoft/prusa_lasoft_frontal_b.jpg" width="270"/> <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_prusa_remix_lasoft/prusa_lasoft_lateral.jpeg" width="270"/> <img src="https://github.com/TreshDe-UFSC/informacoes/blob/master/arquivos/manufatura/mascara_prusa_remix_lasoft/prusa_lasoft_frontal.jpeg" width="270"/>
+<img src="prusa_lasoft_frontal_b.jpg" width="270"/> <img src="prusa_lasoft_lateral.jpeg" width="270"/> <img src="prusa_lasoft_frontal.jpeg" width="270"/>
 
 ## Arquivos
 
