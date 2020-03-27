@@ -3,7 +3,7 @@ Mascara de produção super rapida
 
 ## Arquivos
 - [Desenho de corte (.zip)](shield_apenas_acetato.zip)
-- <a href="https://github.com/EME-UFSC/Informacoes/raw/master/arquivos/manufatura/mascara_apenas_acetato/shield_apenas_acetato.dxf" download="shield_apenas_acetato.dxf">Desenho de corte (.dxf)</a>
+- [Desenho de corte (.dxf)](https://eme-ufsc.github.io/Informacoes/arquivos/manufatura/mascara_apenas_acetato/shield_apenas_acetato.dxf)
 - [Instruçoes de montagem (.pdf)](Assembly_instruction.pdf)
 
 ## Vantagens
