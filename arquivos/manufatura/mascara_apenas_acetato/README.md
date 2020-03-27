@@ -2,7 +2,7 @@
 Mascara de produção super rapida
 
 ## Arquivos
-- [Desenho de corte (.dxf)](medical_shield_0_5mm.zip)
+- [Desenho de corte (.dxf)](shield_apenas_acetato.zip)
 - [Instruçoes de montagem (.pdf)](Assembly_instruction.pdf)
 
 ## Vantagens
