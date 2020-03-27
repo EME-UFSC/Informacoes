@@ -11,7 +11,7 @@ Mascara de produção rapida e confortavel
 - Pouco material (10g de filamento)
 
 ## Desvantagens
-- (?)
+- Encaixe do acetato é quadrado
 
 ## BOM
 - Suporte superior (impresso)
