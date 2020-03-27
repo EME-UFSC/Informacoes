@@ -2,9 +2,9 @@
 Mascara de produção super rapida
 
 ## Arquivos
-- [Desenho de corte (.zip)](shield_apenas_acetato.zip)
-- [Desenho de corte (.dxf)](https://eme-ufsc.github.io/Informacoes/arquivos/manufatura/mascara_apenas_acetato/shield_apenas_acetato.dxf)
+- [Desenho de corte (.dxf)](shield_apenas_acetato.zip)
 - [Instruçoes de montagem (.pdf)](Assembly_instruction.pdf)
+- [test (.dxf)](https://eme-ufsc.github.io/Informacoes/arquivos/manufatura/mascara_apenas_acetato/shield_apenas_acetato.dxf)
 
 ## Vantagens
 - Utiliza apenas acetato na estrutura, sem peças impressas
