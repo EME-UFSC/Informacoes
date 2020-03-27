@@ -11,6 +11,9 @@ O unico modelo validado pelos agentes de saude atualmente é o "Modelo Prusa RC2
   - [Modelo Prusa RC2](../arquivos/manufatura/mascara_facil_prusa)
   - [Modelo Apenas Acetato](../arquivos/manufatura/mascara_apenas_acetato)
   
+### Montagem
+  - [Manual de montagem](Manual EME - Face Shield.pdf)
+  
 ### Procedimento Operacional Padronizado (POP)
   - [Utilização, colocação, retirada e limpeza do protetor de face (Face Shield)](POP_face_shield.pdf)
   
