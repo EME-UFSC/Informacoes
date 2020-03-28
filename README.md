@@ -34,6 +34,7 @@ Primeiramente precisamos saber onde voce precisa de ajuda ou como pode ajudar. P
 - #### [Projetos externos de EME](docs/projetos_externos_de_eme.md)
 - #### [Arquivos para manufatura](docs/arquivos_de_manufatura.md)
 - #### [Noticias](docs/noticias.md)
+- #### [Resolução de fabricação e aquisição de dispositivos médicos em virtude da emergência de saúde pública](http://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-356-de-23-de-marco-de-2020-249317437)
 
 ## Fotos da comunidade
 
