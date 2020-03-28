@@ -4,10 +4,10 @@
 O unico modelo validado pelos agentes de saude atualmente é o "Modelo Prusa RC2". Caso nao tenha motivos especificos para produzir um dos outros, produza esse.
 
 ### Modelo principal
-  - [Modelo Prusa FAST (RC3)](../arquivos/manufatura/mascara_prusa_fast)
+  - [Modelo Prusa Remix Lasoft](../arquivos/manufatura/mascara_prusa_remix_lasoft)
   
 ### Outros modelos
-  - [Modelo Prusa Remix Lasoft](../arquivos/manufatura/mascara_prusa_remix_lasoft)
+  - [Modelo Prusa FAST (RC3)](../arquivos/manufatura/mascara_prusa_fast)
   - [Modelo Roberto-Aurelio](../arquivos/manufatura/mascara_prusa_remix_roberto_aurelio)
   - [Modelo Jailton](../arquivos/manufatura/mascara_facil_jailton)
   - [Modelo Prusa RC2](../arquivos/manufatura/mascara_facil_prusa)
