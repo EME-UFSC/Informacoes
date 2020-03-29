@@ -1,5 +1,8 @@
 # Fotos da comunidade
 
+### 28/03/2020 - Bombeiros de Florianópolis
+![](28_03_2020_Bombeiros_de_Floripa.jpeg)
+![](28_03_2020_Bombeiros_de_Floripa_2.jpeg)
 ### 27/03/2020 - Doação de filamento para TreshDê Floripa 
 ![](27_03_2020_Doação_de_filamento_pra_TreshDê_Floripa.jpeg)
 ![](27_03_2020_Doação_de_filamento_pra_TreshDê_Floripa_2.jpeg)
