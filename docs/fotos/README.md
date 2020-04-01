@@ -1,5 +1,7 @@
 # Fotos da comunidade
 
+### 01/04/2020 - Doação dos Bombeiros de PLA
+![](01_04_2020_Doacao_Bombeirosjpeg)
 ### 28/03/2020 - Bombeiros de Florianópolis
 ![](28_03_2020_Bombeiros_de_Floripa.jpeg)
 ![](28_03_2020_Bombeiros_de_Floripa_2.jpeg)
